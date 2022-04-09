@@ -14,6 +14,7 @@ You can test your SpeechRecognition and PyAudio installation by downloading gues
 >>> m = sr.Microphone()
 >>> recognize_speech_from_mic(r, m)  # speak after running this line
 {'success': True, 'error': None, 'transcription': 'hello'}
+
 Of course, your output will vary depending on what you said after running recognize_speech_from_mic(r, m).
 
 
