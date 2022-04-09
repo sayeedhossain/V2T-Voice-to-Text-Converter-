@@ -17,10 +17,5 @@ You can test your SpeechRecognition and PyAudio installation by downloading gues
 Of course, your output will vary depending on what you said after running recognize_speech_from_mic(r, m).
 
 
+<h4>Any further query? just feel free to contact at (me@sayeedhossain.com) </h4>
 
-
-For any problem , just feel free to contact with me through my mail . 
-
-<h1>Author : </h1><br>
-<h3>Name : Sayeed Hossain</h3><br>
-<h3>Mail : sayeedhatim@gmail.com</h3>
